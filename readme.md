@@ -14,7 +14,7 @@
 - **Custom AFK Message**: Write your own AFK message to notify others when you’re unavailable.  
 - **No Spam**: Only replies to new messages after AFK mode is active, avoiding repeats.  
 - **Seamless Integration**: Works smoothly with Discord, replying only to DMs.  
-
+- **Easy to use**
 ---
 
 ## ⚙️ Installation
