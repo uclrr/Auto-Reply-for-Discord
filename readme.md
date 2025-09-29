@@ -20,7 +20,7 @@
 ## ⚙️ Installation
 
 ### Manual Installation
-1. Download the [AutoAFKReply.plugin.js](https://raw.githubusercontent.com/uclrr/AutoAFKReply/main/AutoAFKReply.plugin.js).  
+1. Download the [Auto-Reply-for-Discord.js](https://raw.githubusercontent.com/uclrr/AutoAFKReply/main/Auto-Reply-for-Discord.js).  
 2. Move the file into your BetterDiscord plugins folder:  
    - **Windows**: `C:\Users\YourUserName\AppData\Roaming\BetterDiscord\plugins\`  
    - **Mac**: `~/Library/Application Support/BetterDiscord/plugins`  
